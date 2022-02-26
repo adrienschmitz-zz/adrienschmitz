@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrienschmitz
 - 👀 I’m interested in programing, meditation, movies, calisthenics, walk, music, improve my language skills 
-- 🌱 I’m currently learning Flutter, React Native, JS
+- 🌱 I’m currently learning Python, Django, Data Science
 - 💞️ I’m looking to collaborate on anything thats I can learn how to profissionaly programing 
 - 📫 How to reach me Twitter: @adrienschmitz. Instagram @adrien.schmitz. FB Adrien Schmitz
 
